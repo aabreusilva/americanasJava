@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/americanasJava.iml" filepath="$PROJECT_DIR$/.idea/americanasJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/booleans/booleans.iml" filepath="$PROJECT_DIR$/booleans/booleans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionals/conditionals.iml" filepath="$PROJECT_DIR$/conditionals/conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functions/functions.iml" filepath="$PROJECT_DIR$/functions/functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numericalLoops/numericalLoops.iml" filepath="$PROJECT_DIR$/numericalLoops/numericalLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringAndDatas/stringAndDatas.iml" filepath="$PROJECT_DIR$/stringAndDatas/stringAndDatas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variables/variables.iml" filepath="$PROJECT_DIR$/variables/variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vectors/vectors.iml" filepath="$PROJECT_DIR$/vectors/vectors.iml" />
+    </modules>
+  </component>
+</project>

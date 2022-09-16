@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="vectors" />
+        <module name="variables" />
+        <module name="functions" />
+        <module name="numericalLoops" />
+        <module name="stringAndDatas" />
+        <module name="booleans" />
+        <module name="conditionals" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="booleans" target="18" />
+      <module name="conditionals" target="18" />
+      <module name="functions" target="18" />
+      <module name="numericalLoops" target="18" />
+      <module name="stringAndDatas" target="18" />
+      <module name="variables" target="18" />
+      <module name="vectors" target="18" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

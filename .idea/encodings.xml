@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/booleans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/booleans/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/conditionals/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/conditionals/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/functions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/functions/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/numericalLoops/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/numericalLoops/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stringAndDatas/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stringAndDatas/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/variables/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/variables/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vectors/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vectors/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
